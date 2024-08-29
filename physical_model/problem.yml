@@ -1,0 +1,6 @@
+# SYMBOLIC PROBLEM
+
+expressions:
+    - v == v_end
+    - v_yy == v_yy_end
+    - v_hh == v_hh_end
